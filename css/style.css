@@ -1,0 +1,91 @@
+section {
+  background-color: #093545;
+  height: 100vh;
+
+  background-image: url(/images/Vectors.png);
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+h2 {
+  width: 13.25rem;
+  height: 5rem;
+  color: #fff;
+  font-size: 4rem;
+  margin-left: 4.06rem;
+  margin-bottom: 2.44rem;
+  top: 9.81rem;
+}
+.box {
+  display: inline-block;
+  width: 21.69rem;
+  height: 25.38rem;
+  text-align: center;
+  margin: 9.81rem 29.12rem;
+}
+p {
+  color: #fff;
+  font-size: 1rem;
+  margin-bottom: 2.25rem;
+}
+.login {
+  width: 18.75rem;
+  height: 2.81rem;
+  background-color: #224957;
+  left: 30.62rem;
+  top: 20.75rem;
+  border-radius: 0.62rem;
+  border: none;
+  margin-bottom: 2rem;
+  color: #fff;
+  font-size: 0.87rem;
+  padding-left: 1.12rem;
+}
+.password {
+  width: 18.75rem;
+  height: 2.81rem;
+  left: 30.62rem;
+  top: 25.56rem;
+  background: #224957;
+  border-radius: 0.62rem;
+  border: none;
+  margin-bottom: 1.43rem;
+  color: #fff;
+  font-size: 0.88rem;
+  padding-left: 1.12rem;
+}
+button {
+  width: 18.75rem;
+  height: 2.81rem;
+  background-color: #21df7f;
+  margin-top: 1.5rem;
+  border-radius: 0.62rem;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+}
+a {
+  color: #21df7f;
+  display: inline-block;
+  text-decoration: none;
+  width: 8rem;
+  height: 1.06rem;
+  left: 41.12rem;
+  top: 29.81rem;
+  margin-left: 3.12rem;
+}
+label {
+  color: #fff;
+  font-size: 16px;
+}
+darkmode {
+  width: 4.38rem;
+  height: 4.38rem;
+  left: 2.25rem;
+  top: 39.38rem;
+}
+img {
+  display: flex;
+  justify-content: left;
+  margin-left: 1.12rem;
+}
